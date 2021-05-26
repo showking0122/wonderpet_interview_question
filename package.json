@@ -1,0 +1,28 @@
+{
+  "name": "05ae72a079b77070773242f274f9ac99",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node 單籃組合.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gist.github.com/05ae72a079b77070773242f274f9ac99.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/05ae72a079b77070773242f274f9ac99"
+  },
+  "homepage": "https://gist.github.com/05ae72a079b77070773242f274f9ac99",
+  "dependencies": {
+    "ts-node": "^10.0.0",
+    "typescript": "^4.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^15.6.1"
+  }
+}
